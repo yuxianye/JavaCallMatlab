@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="gfun_a2vd_t">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../gfun_a2vd_t_001/gfun_a2vd_t/for_redistribution_files_only/gfun_a2vd_t.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../matlab_jar/class/gfun_a2vd_t/for_redistribution_files_only/gfun_a2vd_t.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gfun_sum">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../matlab_jar/gfun_sum/gfun_sum/for_redistribution_files_only/gfun_sum.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

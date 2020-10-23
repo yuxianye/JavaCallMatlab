@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gfun_2fft">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../matlab_jar/gfun_2fft/for_redistribution_files_only/gfun_2fft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
